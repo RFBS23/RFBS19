@@ -21,8 +21,8 @@ Javascript, HTML, CSS...
 
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=RFBS23&label=Fabrizio&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=RFBS23&label=vistas%20del%20perfil&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
   
 </div>
 
-<h3><b>Realizado por:</b> Fabrizio Barrios Saavedra (RFBS18)</h3>
+<h3><b>Realizado por:</b> Fabrizio Barrios Saavedra (RFBS23)</h3>
