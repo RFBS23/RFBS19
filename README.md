@@ -12,4 +12,15 @@
 - 📫 Como Contactarme email: fabriziobarrios92@gmail.com
 ## 🛠 Skills
 Javascript, HTML, CSS...
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,ableton,androidstudio,atom,blender,bootstrap,cs,cpp,css,discord,bots,gamemakerstudio,godot,html,java,js,kotlin,linux,mysql,notion,php,ps,py,robloxstudio,stackoverflow,ubuntu,unity,unreal,visualstudio,vscode,windows,wordpress&perline=11" />
+  </a>
+</p>
+
+<div align="center">
+  
+[![]([https://visitcount.itsvg.in/api?id=FabriDev&label=Profile%20Views&color=12&icon=1&pretty=true](https://visitcount.itsvg.in/api?id=RFBS23&label=Profile%20Views&color=12&icon=1&pretty=true))](https://visitcount.itsvg.in)
+
 <h3><b>Realizado por:</b> Fabrizio Barrios Saavedra (RFBS19)</h3>
